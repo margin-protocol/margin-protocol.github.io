@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://margin-protocol.github.io/Off-Page/sitemap.xml
+Sitemap: https://margin-protocol.github.io/studio/sitemap.xml
